@@ -1,9 +1,13 @@
+p{
+    font-family: Montserrat;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 .title {
     font-weight: bold;
     font-size: 40px;
     margin-left: 80px;
-    margin-top: 0px;
-    margin-bottom: 0px;
+    
 }
 
 .text {
@@ -11,3 +15,6 @@
     margin-top: 10px;
 }
 
+.span-example {
+    text-decoration: underline;
+}
