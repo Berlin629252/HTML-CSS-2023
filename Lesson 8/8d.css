@@ -1,0 +1,30 @@
+input {
+  font-size: 18px;
+  border-color: rgb(200, 200, 200);
+  border-style: solid;
+  width: 148px;
+  margin-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  border-radius: 15px;
+ 
+  
+}
+.email-box {
+  width: 320px;
+  display: block;
+  
+}
+
+.sign-click {
+  font-size: 18px;
+  width: 340px;
+  background-color: rgb(47, 127, 231);
+  color: white;
+  border: none;
+  font-weight: bold;
+  border-radius: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
